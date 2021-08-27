@@ -4,8 +4,6 @@ Proof of concept script to wrap an NFT and use as an ERC-20 token.
 
 Based on a bare-bones implementation of the Ethereum [ERC-20 standard](https://eips.ethereum.org/EIPS/eip-20), written in [Vyper](https://github.com/vyperlang/vyper).
 
-For [Solidity](https://github.com/ethereum/solidity), check out [`token-mix`](https://github.com/brownie-mix/token-mix).
-
 ## Testing
 
 To run the tests:
