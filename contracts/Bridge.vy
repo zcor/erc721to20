@@ -10,8 +10,6 @@
 from vyper.interfaces import ERC20
 from vyper.interfaces import ERC721 as ERC721
 
-
-
 implements: ERC20
 
 
