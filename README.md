@@ -14,7 +14,7 @@ To run the tests:
 brownie test --network mainnet-fork
 ```
 
-The unit tests included in this mix are very generic and should work with any ERC721 compliant smart contract. To use them in your own project, all you must do is modify the deployment logic in the [`tests/conftest.py::token`](tests/conftest.py) fixture.
+The unit tests included in this mix are very generic and should work with any ERC721 compliant smart contract. To use them in your own project, all you must do is modify the deployment logic in the [`tests/conftest.py`](tests/conftest.py) fixture.
 
 ## License
 
